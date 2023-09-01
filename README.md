@@ -1,7 +1,7 @@
 # WeatherPH
 
 <h3>
-<a href = "https://parzivalsupreme.github.io/weather-ph/">WeatherPH</a>
+<a href = "https://parzivalsupreme.github.io/weather-ph/" target="_blank">WeatherPH</a>
 </h3>
 
 <div align="left">
